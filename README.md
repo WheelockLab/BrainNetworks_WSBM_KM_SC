@@ -2,11 +2,11 @@
 
 ## Overview 
 
-TBA
+TBD
 
 ## Main Article
 
-TBA
+TBD
 
 ## Repository Structure
 
@@ -39,6 +39,6 @@ cd WSBM_neuro_comm
 If you use this code or data, please cite:
 
 ```mathematica
-TBA
+TBD
 ```
 
