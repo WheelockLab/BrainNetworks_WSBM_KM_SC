@@ -7,7 +7,7 @@ Community detection provides a principled lens on mesoscale organization in func
 
 ## Main Article
 
-TBD (biorxiv)
+The main article can be found https://www.biorxiv.org/content/10.1101/2025.11.13.688333v1.
 
 ## Repository Structure
 
@@ -54,6 +54,16 @@ cd BrainNetworks_WSBM_KM_SC
 If you use this code or data, please cite:
 
 ```mathematica
-TBD
+@article {bhattacharya2025comparative,
+	author = {Bhattacharya, Ayoushman and Chakraborty, Nilanjan and Wang, Xintian and Tu, Jiaxin (Cindy) and Dierker, Donna and Eck, Andy and Lahiri, Soumendra and Eggebrecht, Adam and Wheelock, Muriah D.},
+	title = {{Comparative Evaluation of Assumption Lean Community Detection Methods for Human Connectome Networks}},
+	elocation-id = {2025.11.13.688333},
+	year = {2025},
+	doi = {10.1101/2025.11.13.688333},
+	publisher = {Cold Spring Harbor Laboratory},
+	URL = {https://www.biorxiv.org/content/early/2025/11/14/2025.11.13.688333},
+	eprint = {https://www.biorxiv.org/content/early/2025/11/14/2025.11.13.688333.full.pdf},
+	journal = {bioRxiv}
+}
 ```
 
